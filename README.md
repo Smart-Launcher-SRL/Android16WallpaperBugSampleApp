@@ -28,3 +28,6 @@ https://github.com/Smart-Launcher-SRL/Android16WallpaperBugSampleApp/blob/main/W
 https://github.com/Smart-Launcher-SRL/Android16WallpaperBugSampleApp/blob/main/WallpaperBug/recordedSamples/closedPixelFold15.mp4
 
 🤯 0 is shifted to the right, 0.5 is centered, 1 is shifted to the left
+
+## Compiled Debug APK
+https://github.com/Smart-Launcher-SRL/Android16WallpaperBugSampleApp/blob/main/WallpaperBug/app/app-debug.apk
